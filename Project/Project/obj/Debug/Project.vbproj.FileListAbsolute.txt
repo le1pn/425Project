@@ -1,0 +1,12 @@
+U:\Desktop\BIS 425\Project\Project\bin\Debug\Project.exe.config
+U:\Desktop\BIS 425\Project\Project\bin\Debug\Project.exe
+U:\Desktop\BIS 425\Project\Project\bin\Debug\Project.pdb
+U:\Desktop\BIS 425\Project\Project\bin\Debug\Project.xml
+U:\Desktop\BIS 425\Project\Project\obj\Debug\Project.vbprojResolveAssemblyReference.cache
+U:\Desktop\BIS 425\Project\Project\obj\Debug\Project.AddEmployeeForm.resources
+U:\Desktop\BIS 425\Project\Project\obj\Debug\Project.Resources.resources
+U:\Desktop\BIS 425\Project\Project\obj\Debug\Project.vbproj.GenerateResource.Cache
+U:\Desktop\BIS 425\Project\Project\obj\Debug\Project.vbproj.CoreCompileInputs.cache
+U:\Desktop\BIS 425\Project\Project\obj\Debug\Project.exe
+U:\Desktop\BIS 425\Project\Project\obj\Debug\Project.xml
+U:\Desktop\BIS 425\Project\Project\obj\Debug\Project.pdb
